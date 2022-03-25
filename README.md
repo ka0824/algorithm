@@ -15,3 +15,4 @@
 > ### 코드 개선하기
 
 ### [단순 queue 문제 시간 단축하기](https://github.com/ka0824/algorithm/blob/main/time_imporvement/simple_queue.md)
+### [두 수 사이의 합 반복문 사용하지 않고 구하기](https://github.com/ka0824/algorithm-data-structure/blob/main/time_imporvement/sum_between_num.md)
