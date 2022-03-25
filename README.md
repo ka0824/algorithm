@@ -1,4 +1,4 @@
-# algorithm && data structure
+# algorithm & data structure
 
 > ### 이론 공부
 
