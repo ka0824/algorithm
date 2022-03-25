@@ -1,7 +1,7 @@
 # algorithm & data structure
 
 > ### 이론 공부
-### [Map](https://github.com/ka0824/algorithm-data-structure/blob/main/theory/set.md)
+### [Set](https://github.com/ka0824/algorithm-data-structure/blob/main/theory/set.md)
 
 <br />
 
@@ -17,3 +17,4 @@
 
 ### [단순 queue 문제 시간 단축하기](https://github.com/ka0824/algorithm/blob/main/time_imporvement/simple_queue.md)
 ### [두 수 사이의 합 반복문 사용하지 않고 구하기](https://github.com/ka0824/algorithm-data-structure/blob/main/time_imporvement/sum_between_num.md)
+### [Set 사용해서 중복된 값 제거하기](https://github.com/ka0824/algorithm-data-structure/blob/main/time_imporvement/use_set.md)
