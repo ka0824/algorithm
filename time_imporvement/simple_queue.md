@@ -1,10 +1,17 @@
 ## 단순 queue 활용 문제 시간 단축하기
 
+> ### 문제 보러가기
+### [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/42583)
+
+<br />
+
 > ### 결론
 
 - 반복문을 실행할 때, 일부 과정을 생략할 수 있는 지 고려해보자.
 - queue, stack을 사용할 때, 특정 상황만 고려할 수 있는지 생각.
 - count를 어디서 늘려야 할지 생각. (맨 처음에 카운트를 늘릴건지, 전체 과정이 끝나고 나서 카운트를 늘릴건지 고려)
+
+<br />
 
 > ### 기존 작성 코드
 
@@ -37,6 +44,8 @@ function solution(bridge_length, weight, truck_weights) {
 }
 
 ```
+
+<br />
 
 > ### 개선한 코드
 
@@ -75,6 +84,8 @@ function solution(bridge_length, weight, truck_weights) {
 }
 
 ```
+
+<br />
 
 > ### 유의 사항
 - 좀더 가시성을 좋게 하기 위해 객체로 만들었더니 시간이 오히려 늘어남.
