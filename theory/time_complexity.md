@@ -29,7 +29,7 @@ function solution(arr) {
 
 - O(logn)      
 특정 과정을 통해 시행될 때 마다 시행 횟수가 줄어듬.  
-ex) 이분 정렬   
+ex) 이분 탐색   
 
 ```
 function solution(arr, target) {
